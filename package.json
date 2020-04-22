@@ -8,6 +8,11 @@
     "eslint-plugin"
   ],
   "author": "gohabereg <gohabereg@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gohabereg/eslint-plugin-grouped-imports.git"
+  },
+  "homepage": "https://github.com/gohabereg/eslint-plugin-grouped-imports",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha tests --recursive"
