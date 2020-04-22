@@ -1,6 +1,5 @@
 /**
- * @file Specify the order of imports
- * @author Georgy
+ * @author gohabereg
  */
 'use strict';
 
